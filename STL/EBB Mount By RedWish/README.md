@@ -14,8 +14,8 @@
 
 
 BOM
-2x M3x16 (Stepper motor)
-2x M3x12 (EBB mounting)
-2x M3x8 (Backbrace mounting)
-2x M3 Heat Inserts (EBB mounting)
-2x M3x15 standoff
+- 2x M3x16 (Stepper motor)
+- 2x M3x12 (EBB mounting)
+- 2x M3x8 (Backbrace mounting)
+- 2x M3 Heat Inserts (EBB mounting)
+- 2x M3x15 standoff
